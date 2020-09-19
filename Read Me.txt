@@ -2,5 +2,10 @@ I have completed the given task partially using ASP.net and C#.
 Due to some emergency I could not complete the last page i.e, "Overview".
 Please do consider my work.
 
+Steps to run :
+1. Make a clone of the repo here in your local system
+2. Load the WebApplication 2 in your VisualStudiio
+3. Run Default.aspx.
+
 Regards
 Akshay Joshi
